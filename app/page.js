@@ -121,7 +121,7 @@ const Page = () => {
             </div>
             <div className="text-white relative z-10 font-semibold text-lg -space-y-1">
               <div>Indie-style personal websites</div>
-              <div>$20</div>
+              <div>$30-$80</div>
             </div>
           </div>
 
@@ -135,7 +135,7 @@ const Page = () => {
             </div>
             <div className="text-white relative z-10 font-semibold text-lg -space-y-1">
               <div>SaaS websites</div>
-              <div>$40</div>
+              <div>$80-$200</div>
             </div>
           </div>
 
@@ -149,7 +149,7 @@ const Page = () => {
             </div>
             <div className="text-white relative z-10 font-semibold text-lg -space-y-1">
               <div>Front-end development</div>
-              <div>$40-50</div>
+              <div>$50-$150</div>
             </div>
           </div>
 
@@ -163,7 +163,7 @@ const Page = () => {
             </div>
             <div className="text-white relative z-10 font-semibold text-lg -space-y-1">
               <div>Site redesign</div>
-              <div>$30</div>
+              <div>$40-$100</div>
             </div>
           </div>
 
@@ -177,7 +177,7 @@ const Page = () => {
             </div>
             <div className="text-white relative z-10 font-semibold text-lg -space-y-1">
               <div>Blog setups</div>
-              <div>$20</div>
+              <div>$20-$50</div>
             </div>
           </div>
         </div>
