@@ -213,8 +213,8 @@ const page = () => {
   };
 
   return (
-    <div className='h-screen w-screen flex justify-center items-center bg-neutral-900 overflow-hidden'>
-      <div className='h-screen overhidden'><img src='https://i.pinimg.com/736x/81/93/59/8193592b2daa2bad01dc773c90609f64.jpg' className='fixed inset-0 top-0 w-screen opacity-80' /></div>
+    <div className='h-screen w-screen flex justify-center items-center bg-neutral-900 overflow-hidden select-none'>
+      <div className='h-screen overhidden'><img src='https://i.pinimg.com/736x/81/93/59/8193592b2daa2bad01dc773c90609f64.jpg' className='fixed inset-0 top-0 w-screen opacity-50' /></div>
       <div className='h-[22rem] w-[40rem] bg-white overflow-hidden border-2 border-black shadow-md rounded relative z-999'>
         <div className='grid grid-cols-3 text-black font-semibold'>
           <div className='h-[110%] bg-black p-4 relative'>
