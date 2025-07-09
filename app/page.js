@@ -23,16 +23,16 @@ const Page = () => {
     about: (
       <>
         <div className="flex flex-col gap-4 max-w-full md:max-w-40 nav-content font-semibold">
-          <div>i'm sumona, a web developer who builds websites that feel personal, alive, and true to you.</div>
+          <div>i&apos;m sumona, a web developer who builds websites that feel personal, alive, and true to you.</div>
           <div>i create <span className='underline'>indie-inspired personal sites</span>, <span className='underline'>minimal blogs</span>, and <span className='underline'>professional websites</span> for businesses, portfolios, and creators.</div>
         </div>
-        <div className='max-w-full md:max-w-40 font-semibold'>because i believe everyone deserves a space on the internet that feels like home – honest, meaningful, and uniquely theirs, whether it's for themselves or their work.</div>
+        <div className='max-w-full md:max-w-40 font-semibold'>because i believe everyone deserves a space on the internet that feels like home – honest, meaningful, and uniquely theirs, whether it&apos;s for themselves or their work.</div>
       </>
     ),
     gallery: (
       <>
         <div className="flex flex-col gap-4 nav-content">
-          <div className='font-semibold'>here's a collection of my recent projects and works</div>
+          <div className='font-semibold'>here&apos;s a collection of my recent projects and works</div>
           <div className='pb-4 flex flex-col -space-y-2 w-full md:w-[16rem] h-[18rem] overflow-y-auto scroll-smooth px-3 font-semibold'>
             <div className="w-full md:w-54 h-full relative group">
               <img 
