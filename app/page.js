@@ -3,7 +3,7 @@ import Link from 'next/link'
 import React, { useState, useEffect } from 'react'
 
 const Page = () => {
-  const [activeContent, setActiveContent] = useState('services');
+  const [activeContent, setActiveContent] = useState('about');
   const [isMobile, setIsMobile] = useState(false);
 
   useEffect(() => {
