@@ -199,12 +199,12 @@ const page = () => {
     support: (
       <>
         <div className="w-96 nav-content flex flex-col items-center justify-center relative">
-          <div className="absolute top-0 font-['InstrumentItalic'] max-w-60 mx-auto text-center inset-0 lowercase font-semibold">Your tips help me keep building meaningful sites for the indie web</div>
+          <div className="absolute top-0 font-['InstrumentItalic'] max-w-70 mx-auto text-center inset-0 lowercase font-semibold">Your support lets me build more honest and meaningful sites for the web⋆˚☆</div>
           <div className='relative'>
             <img src='/frame.jpg' className='w-40 relative' />
             <img src='https://media1.tenor.com/m/D3rxeICLzfwAAAAC/chobits-chii.gif' className='w-[7rem] h-[7rem] absolute left-6 top-6' />
           </div>
-          <div className='absolute bottom-4'>
+          <div className='absolute bottom-4 animate-bounce'>
             <a href='https://getmechai.vercel.app/link.html?vpa=8433404016@ibl&nm=SumonaBiswas&amt=100'><img src='/support.gif' /></a>
           </div>
         </div>
